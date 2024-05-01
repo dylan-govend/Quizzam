@@ -1,9 +1,33 @@
 # Quizzam
-Our team has decided to create an interactive quiz based on Maths and English called Quizzam. The aim is to allow students to work on their basic Maths and English skills as well as allow parents to monitor their child’s progress without the pressure of a test. Parents and teachers will have the added opportunity to create their own quizzes so they can adjust the questions as they deem fit for each student/child. Students will be presented with standard generated quiz questions and answers which will vary from easy to difficult.
+# Introducing Quizzam: A Fun and Personalized Learning Tool!
+# Boost Math & English Skills without Test Anxiety!
 
-The quiz focuses on the key building blocks of the South African Education System which are Mathematics and English. The main reason for Maths and English being chosen as they are needed in the National Senior Certificate examinations for entrance into any university should students want to further their studies. Other than entrance into university; reading, writing, and solving math calculations help exercise their cognitive ability and relearn important concepts. Quizzam focuses on these subjects as it not only helps improve a student’s academics, but it stimulates their cognitive ability.
+Our team is excited to launch Quizzam, an interactive quiz platform designed to empower students to build their core Math and English skills in a stress-free environment.
 
-Quizzam’s main focus is quizzes based on Math and English however we have added a third category which will allow the user to train their memory ability, a simple memory card game. This was added to act as a stress reliever during each quiz and allows the user's mind to reset before they take the next quiz. This also ensures that the user can refocus and reactivate their memorising ability (which is usually unused in the Education System).
+# Why Math & English?
+
+These fundamental subjects are the cornerstones of the South African education system and are crucial for success in the National Senior Certificate exams, which unlock university doors.
+
+But Quizzam goes beyond exams! Mastering Math and English equips students with essential life skills. From reading comprehension and clear writing to problem-solving and analytical thinking, these subjects sharpen cognitive abilities and pave the way for lifelong learning.
+
+# Learning Made Fun & Engaging
+
+Quizzam offers a variety of automatically generated quizzes, ranging from easy to challenging, to keep students engaged. Parents and teachers can even personalize the learning experience by creating custom quizzes tailored to each student's needs.
+
+# A Focus on Memory & Cognitive Skills
+
+Quizzam takes learning a step further by incorporating a memory game category. This fun break between Math and English quizzes allows students to unwind and refocus, while also strengthening their often-undervalued memorization skills.
+
+Join Quizzam and unlock a world of learning fun!
+
+This revised version streamlines the original text, highlighting the key features of Quizzam:
+
+> Focus on fun and stress-free learning
+> Importance of Math and English skills
+> Benefits beyond exams
+> Interactive features and personalization
+> Unique focus on memory training
+The revised text is also more concise and engaging, making it easier for parents, teachers, and students to understand the value of Quizzam.
 
 <p align="center" width="100%">
     <img src="https://github.com/dylan-govender/Quizzam/assets/134143760/84b00759-b415-4303-9f29-92e08083e065"> 
