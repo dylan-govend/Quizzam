@@ -1,33 +1,22 @@
 # Quizzam
-# Introducing Quizzam: A Fun and Personalized Learning Tool!
-# Boost Math & English Skills without Test Anxiety!
+## Introducing Quizzam: A Fun and Personalized Learning Tool!
+## Boost Math & English Skills without Test Anxiety!
 
 Our team is excited to provide Quizzam, an interactive quiz platform designed to empower students to build their core Math and English skills in a stress-free environment.
 
-# Why Math & English?
+## Why Math & English?
 
 These fundamental subjects are the cornerstones of the South African education system and are crucial for success in the National Senior Certificate exams, which unlock university doors.
 
 But Quizzam goes beyond exams! Mastering Math and English equips students with essential life skills. From reading comprehension and clear writing to problem-solving and analytical thinking, these subjects sharpen cognitive abilities and pave the way for lifelong learning.
 
-# Learning Made Fun & Engaging
+## Learning Made Fun & Engaging
 
 Quizzam offers a variety of automatically generated quizzes, ranging from easy to challenging, to keep students engaged. Parents and teachers can even personalize the learning experience by creating custom quizzes tailored to each student's needs.
 
-# A Focus on Memory & Cognitive Skills
+## A Focus on Memory & Cognitive Skills
 
 Quizzam takes learning a step further by incorporating a memory game category. This fun break between Math and English quizzes allows students to unwind and refocus, while also strengthening their often-undervalued memorization skills.
-
-Join Quizzam and unlock a world of learning fun!
-
-This revised version streamlines the original text, highlighting the key features of Quizzam:
-
-> Focus on fun and stress-free learning
-> Importance of Math and English skills
-> Benefits beyond exams
-> Interactive features and personalization
-> Unique focus on memory training
-The revised text is also more concise and engaging, making it easier for parents, teachers, and students to understand the value of Quizzam.
 
 <p align="center" width="100%">
     <img src="https://github.com/dylan-govender/Quizzam/assets/134143760/84b00759-b415-4303-9f29-92e08083e065"> 
