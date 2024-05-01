@@ -22,12 +22,17 @@ Quizzam takes learning a step further by incorporating a memory game category. T
     <img src="https://github.com/dylan-govender/Quizzam/assets/134143760/84b00759-b415-4303-9f29-92e08083e065"> 
 </p>
 
-		
 ![Screenshot 2024-04-02 142033](https://github.com/dylan-govender/Quizzam/assets/134143760/5c5ea72d-ff0a-4b29-9e0b-abdf02c8e1e8)
+
 ![Screenshot 2024-04-02 142046](https://github.com/dylan-govender/Quizzam/assets/134143760/c671700b-b70a-481c-add2-aad9bc3d128d)
+
 ![Screenshot 2024-04-02 142103](https://github.com/dylan-govender/Quizzam/assets/134143760/9dfea7ad-086c-4a02-ac53-14dfa207b7d2)
+
 ![Screenshot 2024-04-02 142115](https://github.com/dylan-govender/Quizzam/assets/134143760/e8769dba-72da-42e3-8d21-f765bec7c76c)
+
 ![Screenshot 2024-04-02 141734](https://github.com/dylan-govender/Quizzam/assets/134143760/97b41ca4-90bf-4530-add9-75247439354f)
+
 ![Screenshot 2024-04-02 141614](https://github.com/dylan-govender/Quizzam/assets/134143760/96e554f9-b24a-4159-9fe4-0a2682de4bd2)
+
 ![Screenshot 2024-04-02 141545](https://github.com/dylan-govender/Quizzam/assets/134143760/6880eed9-b34c-421c-8474-f4653c2df291)
 
