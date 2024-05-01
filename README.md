@@ -2,7 +2,7 @@
 # Introducing Quizzam: A Fun and Personalized Learning Tool!
 # Boost Math & English Skills without Test Anxiety!
 
-Our team is excited to launch Quizzam, an interactive quiz platform designed to empower students to build their core Math and English skills in a stress-free environment.
+Our team is excited to provide Quizzam, an interactive quiz platform designed to empower students to build their core Math and English skills in a stress-free environment.
 
 # Why Math & English?
 
