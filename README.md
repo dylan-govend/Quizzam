@@ -6,7 +6,7 @@ The quiz focuses on the key building blocks of the South African Education Syste
 Quizzam’s main focus is quizzes based on Math and English however we have added a third category which will allow the user to train their memory ability, a simple memory card game. This was added to act as a stress reliever during each quiz and allows the user's mind to reset before they take the next quiz. This also ensures that the user can refocus and reactivate their memorising ability (which is usually unused in the Education System).
 
 <p align="center" width="100%">
-    <img width="33%" src="https://github.com/dylan-govender/Quizzam/assets/134143760/84b00759-b415-4303-9f29-92e08083e065"> 
+    <img src="https://github.com/dylan-govender/Quizzam/assets/134143760/84b00759-b415-4303-9f29-92e08083e065"> 
 </p>
 
 		
